@@ -1,3 +1,5 @@
+1/3 Implementation (Alpha-Alpha)
+
 # Unit-Testing-in-C-for-Medicure-Clinic-Management-System
 The Importance of Unit Testing in Healthcare Systems
 In the healthcare industry, reliability is non-negotiable. A clinic management system like Medicure handles sensitive data — patient records, appointment schedules, medical histories, and billing information. Even a minor bug could lead to serious consequences, such as incorrect medical records, missed appointments, or unauthorized access to sensitive data.

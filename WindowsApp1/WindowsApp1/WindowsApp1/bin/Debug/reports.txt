@@ -1,0 +1,2 @@
+﻿PatientId,ReportName,DateTimeGenerated,ReportResult,field1,data1,field2,data2,field3,data3,field4,data4,Payment
+102,ECG,2025-04-15,Normal,BP,120,HeartRate,72,Temp,98.6,O2,97,1000

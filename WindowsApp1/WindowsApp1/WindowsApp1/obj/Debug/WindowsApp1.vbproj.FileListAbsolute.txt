@@ -1,0 +1,113 @@
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Clinic Record.accdb
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form5.resources
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form6.resources
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form7.resources
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form8.resources
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form9.resources
+C:\Users\HP\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form10.resources
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\bin\Debug\Clinic Record.accdb
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\obj\Debug\WindowsApp1.Form10.resources
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\obj\Debug\WindowsApp1.Form5.resources
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\obj\Debug\WindowsApp1.Form6.resources
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\obj\Debug\WindowsApp1.Form7.resources
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\obj\Debug\WindowsApp1.Form8.resources
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\obj\Debug\WindowsApp1.Form9.resources
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\HP\source\repos\MediCare Clinic System\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\bin\Debug\Clinic Record.accdb
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form10.resources
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form5.resources
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form6.resources
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form7.resources
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form8.resources
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form9.resources
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\bin\Debug\Clinic Record.accdb
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form10.resources
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form5.resources
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form6.resources
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form7.resources
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form8.resources
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form9.resources
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\Visual Studio Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\bin\Debug\Clinic Record.accdb
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form10.resources
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form5.resources
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form6.resources
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form7.resources
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form8.resources
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form9.resources
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\WindowsApp1 (2)\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb

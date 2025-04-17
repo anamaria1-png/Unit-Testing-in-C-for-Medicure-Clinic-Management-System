@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WindowsApp1 (2)\\WindowsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D22E3928-C419-43EE-9E0C-233577F82EE3}|TestProject1\\TestProject1.vbproj|d:\\windowsapp1 (2)\\windowsapp1\\testproject1\\datahelpertests.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D22E3928-C419-43EE-9E0C-233577F82EE3}|TestProject1\\TestProject1.vbproj|solutionrelative:testproject1\\datahelpertests.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22E3928-C419-43EE-9E0C-233577F82EE3}|TestProject1\\TestProject1.vbproj|d:\\windowsapp1 (2)\\windowsapp1\\testproject1\\usermanagertests.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D22E3928-C419-43EE-9E0C-233577F82EE3}|TestProject1\\TestProject1.vbproj|solutionrelative:testproject1\\usermanagertests.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22E3928-C419-43EE-9E0C-233577F82EE3}|TestProject1\\TestProject1.vbproj|d:\\windowsapp1 (2)\\windowsapp1\\testproject1\\loginmanagertests.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D22E3928-C419-43EE-9E0C-233577F82EE3}|TestProject1\\TestProject1.vbproj|solutionrelative:testproject1\\loginmanagertests.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22E3928-C419-43EE-9E0C-233577F82EE3}|TestProject1\\TestProject1.vbproj|d:\\windowsapp1 (2)\\windowsapp1\\testproject1\\patientmanagertests.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D22E3928-C419-43EE-9E0C-233577F82EE3}|TestProject1\\TestProject1.vbproj|solutionrelative:testproject1\\patientmanagertests.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataHelperTests.vb",
+              "DocumentMoniker": "D:\\WindowsApp1 (2)\\WindowsApp1\\TestProject1\\DataHelperTests.vb",
+              "RelativeDocumentMoniker": "TestProject1\\DataHelperTests.vb",
+              "ToolTip": "D:\\WindowsApp1 (2)\\WindowsApp1\\TestProject1\\DataHelperTests.vb",
+              "RelativeToolTip": "TestProject1\\DataHelperTests.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T19:09:06.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManagerTests.vb",
+              "DocumentMoniker": "D:\\WindowsApp1 (2)\\WindowsApp1\\TestProject1\\UserManagerTests.vb",
+              "RelativeDocumentMoniker": "TestProject1\\UserManagerTests.vb",
+              "ToolTip": "D:\\WindowsApp1 (2)\\WindowsApp1\\TestProject1\\UserManagerTests.vb",
+              "RelativeToolTip": "TestProject1\\UserManagerTests.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T19:08:26.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientManagerTests.vb",
+              "DocumentMoniker": "D:\\WindowsApp1 (2)\\WindowsApp1\\TestProject1\\PatientManagerTests.vb",
+              "RelativeDocumentMoniker": "TestProject1\\PatientManagerTests.vb",
+              "ToolTip": "D:\\WindowsApp1 (2)\\WindowsApp1\\TestProject1\\PatientManagerTests.vb",
+              "RelativeToolTip": "TestProject1\\PatientManagerTests.vb",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wDEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T19:07:01.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginManagerTests.vb",
+              "DocumentMoniker": "D:\\WindowsApp1 (2)\\WindowsApp1\\TestProject1\\LoginManagerTests.vb",
+              "RelativeDocumentMoniker": "TestProject1\\LoginManagerTests.vb",
+              "ToolTip": "D:\\WindowsApp1 (2)\\WindowsApp1\\TestProject1\\LoginManagerTests.vb",
+              "RelativeToolTip": "TestProject1\\LoginManagerTests.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T19:07:12.295Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

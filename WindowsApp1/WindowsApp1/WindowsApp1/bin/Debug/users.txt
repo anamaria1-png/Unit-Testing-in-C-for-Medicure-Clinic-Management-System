@@ -1,0 +1,5 @@
+﻿Id,Name,Username,Password,Role,Gender,Email,MobileNo,Salary
+1,Basit Nazir,basit,123456,Admin,Male,basitnazir03@yahoo.com,+921231234567,350000
+2,Alice Smith,alice,pass123,User,Female,alice@example.com,+921234567890,150000
+3,ABC,abc,123,Medical Staff,Male,abc@GMAIL.COM,123,13200
+4,Dr. John,john,123,Doctor,Male,john@gmail.com,1321231,12300

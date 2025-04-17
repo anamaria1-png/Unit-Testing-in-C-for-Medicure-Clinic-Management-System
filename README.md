@@ -26,3 +26,6 @@ Patient History Management 🩺: Confirming that medical histories are updated c
 Report Management 📊: Testing the generation of reports to ensure accuracy and proper formatting.
 
 By isolating these features into individual units, MSTest allows us to build comprehensive tests, ensuring everything works as expected. ✅
+
+- 2/3 implementation corresponds to an intermediate version (beta-beta) of the project, including case studies, comparative assessments, in-depth analyses, etc.
+- 3/3 implementation represents the final version of the project, which must include the source code, full documentation, presentation, videos and report on the use of AI.
